@@ -1,0 +1,25 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "study Start type script",
+  "main": "index.js",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "tsc-watch": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node dist/index.js",
+    "prestart": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vapvin/TypeScript-Start.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vapvin/TypeScript-Start/issues"
+  },
+  "homepage": "https://github.com/vapvin/TypeScript-Start#readme"
+}
